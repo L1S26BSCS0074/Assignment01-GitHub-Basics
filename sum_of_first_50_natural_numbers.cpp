@@ -1,3 +1,11 @@
+
+/*
+Program Title: Sum of First 50 Natural Numbers
+Name: Muaz Ahmad
+Registration Number: L1S26BSCS0074
+Assignment Number: 1
+*/
+
 #include <iostream>
 using namespace std;
 
